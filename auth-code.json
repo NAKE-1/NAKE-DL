@@ -3,29 +3,44 @@
   "last_updated": "2026-01-22",
   "codes": [
     {
-      "key": "nake-nake-0707",
-      "name": "User Alpha",
-      "description": "Standard access key for main desktop client",
-      "issued": "2026-01-10",
+      "key": "X9k#-2Pq@-7Bn!",
+      "name": "DEV-NAKE",
+      "description": "Primary administrator access",
+      "issued": "2026-01-22",
+      "expires": "2027-01-22",
+      "active": true
+    },
+    {
+      "key": "AbCd-EfGh-IjKl",
+      "name": "User One",
+      "description": "Standard user access",
+      "issued": "2026-01-22",
+      "expires": "2027-06-01",
+      "active": true
+    },
+    {
+      "key": "MnOp-QrSt-UvWx",
+      "name": "User Two",
+      "description": "Standard user access",
+      "issued": "2026-01-22",
+      "expires": "2027-03-15",
+      "active": true
+    },
+    {
+      "key": "YzAb-CdEf-GhIj",
+      "name": "User Three",
+      "description": "Standard user access",
+      "issued": "2026-01-22",
       "expires": null,
       "active": true
     },
     {
-      "key": "K8P2-MZ9A-R4Q1",
-      "name": "Beta Tester 01",
-      "description": "Early access / beta testing license",
-      "issued": "2026-01-15",
-      "expires": "2026-03-01",
+      "key": "KlMn-OpQr-StUv",
+      "name": "User Four",
+      "description": "Standard user access",
+      "issued": "2026-01-22",
+      "expires": "2026-12-31",
       "active": true
-    },
-    {
-      "key": "X1Z9-A7M2-Q8F4",
-      "name": "Revoked Key",
-      "description": "Disabled due to abuse",
-      "issued": "2025-12-01",
-      "expires": null,
-      "active": false
     }
   ]
 }
-
