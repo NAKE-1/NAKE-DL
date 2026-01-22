@@ -8,7 +8,8 @@
       "description": "Primary administrator access",
       "issued": "2026-01-22",
       "expires": "2027-01-22",
-      "active": true
+      "active": true,
+      "permission_level": 2
     },
     {
       "key": "AbCd-EfGh-IjKl",
@@ -16,7 +17,8 @@
       "description": "Standard user access",
       "issued": "2026-01-22",
       "expires": "2027-06-01",
-      "active": true
+      "active": true,
+      "permission_level": 1
     },
     {
       "key": "MnOp-QrSt-UvWx",
@@ -24,7 +26,8 @@
       "description": "Standard user access",
       "issued": "2026-01-22",
       "expires": "2027-03-15",
-      "active": true
+      "active": true,
+      "permission_level": 0
     },
     {
       "key": "YzAb-CdEf-GhIj",
@@ -32,7 +35,8 @@
       "description": "Standard user access",
       "issued": "2026-01-22",
       "expires": null,
-      "active": true
+      "active": true,
+      "permission_level": 0
     },
     {
       "key": "KlMn-OpQr-StUv",
@@ -40,7 +44,8 @@
       "description": "Standard user access",
       "issued": "2026-01-22",
       "expires": "2026-12-31",
-      "active": true
+      "active": true,
+      "permission_level": 0
     }
   ]
 }
